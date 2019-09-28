@@ -261,7 +261,7 @@ __pycache__/
 *.pyc
 
 # App Settings
-**/appsettings.json
+**appsettings.json
 
 # Web App1
-**/WebApplication1.csproj
+**WebApplication1.csproj
